@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=spigot-1.8.8-R0.1-SNAPSHOT-latest.jar -DgroupId="groupid" -DartifactId="artifactid" -Dversion="version" -Dpackaging=jar -DlocalRepositoryPath="local repo poss"
